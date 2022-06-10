@@ -1,8 +1,6 @@
 This app reformate titles from such a format
 
 ===================================================
-00:00:18.460,0:00:20.440		Recettes monastiques
-00:00:20.440,0:00:27.520		Baursaki - beignets traditionnels kazakhs
 00:00:27.520,0:00:28.630		Salutations de Minsk !
 =====================================================
 
@@ -10,12 +8,6 @@ ToSRT2 (used in Adobe Premier):
 
 =======================================================
 1 
-00:00:18,460 --> 00:00:20,440 Recettes monastiques
-
-2 
-00:00:20,440 --> 00:00:27,520 Baursaki - beignets traditionnels kazakhs
-
-3 
 00:00:27,520 --> 00:00:28,630 Salutations de Minsk !
 ==========================================================
 
