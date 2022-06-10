@@ -7,7 +7,7 @@ This app reformate titles from such a format
 ToSRT2 (used in Adobe Premier):
 
 ========================================
-1 '\n'
+
 00:00:27,520 --> 00:00:28,630 Salutations de Minsk !
 ========================================
 
